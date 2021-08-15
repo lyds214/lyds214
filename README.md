@@ -1,10 +1,5 @@
 # Notable Projects
 
-## Journey (Winner of Mental Health Category)
-Journey is a mobile application that keeps track of user's mood and elevate their mood by journaling and listening to music. I used Flutter for the front-end portion and collaborated with a team for MarinaHacks 2021.
-
-[Link](https://github.com/lyds214/Journey)
-
 ## Gro
 A mobile application that keeps track of user's plants to maintain their plants' health. I used Flutter and Dart to code the front-end portion with a team of this project during BeachHacks 2021.
 
@@ -15,8 +10,17 @@ A mobile application that is used as a trading app to help students who are in n
 
 [Link](https://github.com/lyds214/Hermes)
 
-## University Scheduling Project
-A website that revamps California State University Long Beach's university scheduling system. This is used to save students' time and be efficient with their schedules.
+## Journey (Winner of Mental Health Category)
+Journey is a mobile application that keeps track of user's mood and elevate their mood by journaling and listening to music. I used Flutter for the front-end portion and collaborated with a team for MarinaHacks 2021.
 
-[Link](https://github.com/kevinjaypatel/dsc-csulb-front-end-development)
+[Link](https://github.com/lyds214/Journey)
+
+## Quickify
+A web application that helps users find songs on Spotify quickly and efficiently.
+
+[Link](https://github.com/lyds214/Quickify)
+
+
+
+
 
