@@ -15,10 +15,6 @@ Journey is a mobile application that keeps track of user's mood and elevate thei
 
 [Link](https://github.com/lyds214/Journey)
 
-## Quickify
-A web application that helps users find songs on Spotify quickly and efficiently.
-
-[Link](https://github.com/lyds214/Quickify)
 
 
 
