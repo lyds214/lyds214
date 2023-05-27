@@ -9,6 +9,7 @@ A web application that advertises students to join CSULB's hackathon: BeachHacks
 
 ## Gro
 A mobile application that used Firebase and Flutter to track the plants' growth.
+
 [Link](https://github.com/lyds214/Gro)
 
 ## Hermes
