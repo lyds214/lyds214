@@ -1,8 +1,12 @@
 # Notable Projects
 
-## Gro
-A mobile application that keeps track of user's plants to maintain their plants' health. I used Flutter and Dart to code the front-end portion with a team of this project during BeachHacks 2021.
+## BeachHacks 7.0
+A web application that advertises students to join CSULB's hackathon: BeachHacks. 
+[Link](https://beachhacks.com/)
+[Github](https://github.com/BeachHacks/BeachHacks-Website-2023)
 
+## Gro
+A mobile application that used Firebase and Flutter to track the plants' growth.
 [Link](https://github.com/lyds214/Gro)
 
 ## Hermes
@@ -14,9 +18,3 @@ A mobile application that is used as a trading app to help students who are in n
 Journey is a mobile application that keeps track of user's mood and elevate their mood by journaling and listening to music. I used Flutter for the front-end portion and collaborated with a team for MarinaHacks 2021.
 
 [Link](https://github.com/lyds214/Journey)
-
-
-
-
-
-
