@@ -2,7 +2,9 @@
 
 ## BeachHacks 7.0
 A web application that advertises students to join CSULB's hackathon: BeachHacks. 
+
 [Link](https://beachhacks.com/)
+
 [Github](https://github.com/BeachHacks/BeachHacks-Website-2023)
 
 ## Gro
